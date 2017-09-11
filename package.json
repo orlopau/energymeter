@@ -1,5 +1,5 @@
 {
-  "name": "sma_energymeter",
+  "name": "energymeter",
   "version": "1.0.0",
   "description": "Reads data from SMA Energy Meter",
   "main": "index.js",
